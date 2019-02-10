@@ -3,7 +3,7 @@
 	function Connection(){
 		$server="localhost";
 		$user="tgsite";
-		$pass="falso";
+		$pass="XXXXXXX";
 		$db="my_tgsite";
 
 		$connection = mysql_connect($server, $user, $pass);
